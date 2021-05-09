@@ -1,0 +1,45 @@
+:root {
+    --primary: #D5A66A;
+    --highlight: #00B7CE;
+    --text-base: #FFFFFF;
+    --text-muted: #6E7477;
+    --bg-body: #161D21;
+    --bg-card: #232e37;
+    --border: rgb(235,235,235);
+    --black:black;
+    --grey-input:rgb(245,245,245);
+    --white:#fff;
+    --red:rgb(155, 6, 6);
+  }
+//COLORS VARS SASS
+  
+$color-black:var(--black);
+$color-grey:var(--text-muted);
+$color-blue-light:var(--highlight);
+$color-bg-body:var(--bg-body);
+$color-border:var(--border);
+$color-white:var(--white);
+$color-red:var(--red);
+
+$color-grey-input:var(--grey-input);
+
+
+// LAYOUT BREAKPOINTS
+$break-xs-mobile: 350px;
+$break-max-mobile: 380px;
+$break-mobile: 400px;
+$break-mobile-min: 450px;
+$break-min-narrow:500px;
+$break-max-narrow: 550px;
+$break-narrow: 750px;
+$break-mid-normal: 850px;
+$break-normal: 950px;
+$break-max-normal: 1050px;
+$break-wide: 1300px;
+//FONTS:
+$font-primary:"Open Sans", sans-serif;
+
+$logo-font: 'RocknRoll One', sans-serif;
+
+
+

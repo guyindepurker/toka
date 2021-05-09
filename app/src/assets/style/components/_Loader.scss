@@ -1,0 +1,13 @@
+.loader-container{
+    min-height:100%;
+
+    .loader{
+        border: 5px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 5px solid $color-bg-body;
+        width: 50px;
+        height: 50px;
+        animation: spin 2s linear infinite;
+    }
+
+}

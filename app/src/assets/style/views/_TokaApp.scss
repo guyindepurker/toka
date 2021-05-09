@@ -1,0 +1,15 @@
+.toka-app {
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 20px 100px 1fr 400px 20px;
+    grid-template-rows: 84px 40px 60px minmax(auto,1fr);
+
+  
+
+    .user-list {
+        grid-row: 3/-1;
+        grid-column: 3/4;
+
+    }
+}

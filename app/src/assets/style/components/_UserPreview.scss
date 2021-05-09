@@ -1,0 +1,64 @@
+.count {
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 20px;
+    @include animationFadeIn;
+    @include borderBottom;
+}
+
+.user-preview {
+    padding: 15px 0;
+    @include animationFadeIn;
+    &:not(:last-child) {
+       @include borderBottom;
+
+    }
+
+    .user-info-container {
+        .user-avatar-container {
+
+            width: 56px;
+            border-radius: 50%;
+            background-color: $color-grey;
+            height: 56px;
+            margin-right: 16px;
+            padding: 5px 0;
+
+            img {
+                height: 39px;
+                width: 50px;
+            }
+        }
+    }
+
+    .user-details {
+        align-items: flex-start;
+        .user-city {
+            color: $color-black;
+            font-weight: 700;
+
+            text-transform: capitalize;
+            font-size: 16px;
+        }
+
+        .user-full-name {
+            color: $color-grey;
+            font-weight: 200;
+            text-transform: capitalize;
+            font-size: 12px;
+        }
+    }
+
+    .criteria-container {
+        height: 24px;
+        padding: 0 12px;
+        font-weight: 800;
+
+        font-size: 12px;
+        text-transform: uppercase;
+        color: $color-grey;
+        border: 1px solid $color-grey;
+        border-radius: 5px;
+    }
+}

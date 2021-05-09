@@ -1,0 +1,14 @@
+.reutrun-button {
+    cursor: pointer;
+    grid-column: 2/3;
+    align-self: center;
+    img {
+        height: 22px;
+        margin-right: 8px;
+    }
+    span{
+        text-transform: uppercase;
+    font-weight: 700;
+
+    }
+}

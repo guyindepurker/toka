@@ -1,0 +1,26 @@
+// SETUP
+@import 'setup/variables';
+@import 'setup/mixins';
+@import 'setup/functions';
+@import 'setup/typography';
+// BASICS
+@import 'basics/fonts';
+@import 'basics/base';
+@import 'basics/helpers';
+@import 'basics/animations';
+@import 'basics/buttons';
+@import 'basics/layout';
+//VIEWS
+@import 'views/Home';
+@import 'views/TokaApp';
+//CMPS
+@import 'components/Logo';
+@import 'components/Footer';
+@import 'components/Loader';
+@import 'components/GetData';
+@import 'components/UserPreview';
+@import 'components/FilterBy';
+@import 'components/ReturnButton';
+@import 'components/Scanning';
+
+

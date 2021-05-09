@@ -1,0 +1,268 @@
+{
+    "users": [{
+            "firstName": "Wenjie",
+            "lastName": "Basol",
+            "id": "jX9b3mw",
+            "criteria": 1,
+            "city": "Fort Mill"
+        },
+        {
+            "firstName": "Azra",
+            "lastName": "Little",
+            "id": "Org69lN",
+            "criteria": 2,
+            "city": "Texas City"
+        },
+        {
+            "firstName": "Kenneth",
+            "lastName": "Burnett",
+            "id": "6aJ0IbK",
+            "criteria": 2,
+            "city": "Tallapoosa"
+        },
+        {
+            "firstName": "Mohammed",
+            "lastName": "Jellison",
+            "id": "DPDpXoP",
+            "criteria": 2,
+            "city": "Modesto"
+        },
+        {
+            "firstName": "June",
+            "lastName": "Stewart",
+            "id": "J25ZlfG",
+            "criteria": 1,
+            "city": "Neenah"
+        },
+        {
+            "firstName": "Natalia",
+            "lastName": "Bjurback",
+            "id": "2IOjEjm",
+            "criteria": 3,
+            "city": "Sebring"
+        },
+        {
+            "firstName": "Aminata",
+            "lastName": "Kasprzak",
+            "id": "q3pPqu7",
+            "criteria": 2,
+            "city": "Springfield"
+        },
+        {
+            "firstName": "Mohamed",
+            "lastName": "Flint",
+            "id": "4skevwu",
+            "criteria": 1,
+            "city": "The Dalles"
+        },
+        {
+            "firstName": "Syed",
+            "lastName": "Jantz",
+            "id": "QRGuZmD",
+            "criteria": 1,
+            "city": "Saugus"
+        },
+        {
+            "firstName": "Andy",
+            "lastName": "Travis",
+            "id": "n6cUzAL",
+            "criteria": 2,
+            "city": "Saint Pauls"
+        },
+        {
+            "firstName": "Rene",
+            "lastName": "Snow",
+            "id": "2JYn5Q7",
+            "criteria": 1,
+            "city": "Birmingham"
+        },
+        {
+            "firstName": "Charlene",
+            "lastName": "Deskins",
+            "id": "J2dm7hE",
+            "criteria": 2,
+            "city": "Davisburg"
+        },
+        {
+            "firstName": "Jamie",
+            "lastName": "Ghiselli",
+            "id": "31yPxjO",
+            "criteria": 3,
+            "city": "North Bend"
+        },
+        {
+            "firstName": "Hiam",
+            "lastName": "Noriega",
+            "id": "cJDGABd",
+            "criteria": 1,
+            "city": "Peoria"
+        },
+        {
+            "firstName": "Samantha",
+            "lastName": "Fielack",
+            "id": "lD93IMR",
+            "criteria": 3,
+            "city": "Semarang"
+        },
+        {
+            "firstName": "Edward",
+            "lastName": "Trenkelbach",
+            "id": "mnJ8nhm",
+            "criteria": 2,
+            "city": "Eagle Pass"
+        },
+        {
+            "firstName": "Graeme",
+            "lastName": "Hough",
+            "id": "KlL8c1u",
+            "criteria": 2,
+            "city": "Thornton"
+        },
+        {
+            "firstName": "Hussain",
+            "lastName": "Knaus",
+            "id": "8mTCgEZ",
+            "criteria": 1,
+            "city": "Tobyhanna"
+        },
+        {
+            "firstName": "Husam",
+            "lastName": "Devine",
+            "id": "sSmG1V6",
+            "criteria": 3,
+            "city": "Bremen"
+        },
+        {
+            "firstName": "Aubrey",
+            "lastName": "Ross",
+            "id": "diDMRat",
+            "criteria": 1,
+            "city": "Chesterfield"
+        },
+        {
+            "firstName": "Ernest",
+            "lastName": "Golaner",
+            "id": "ISMXLbN",
+            "criteria": 3,
+            "city": "Rancho Cucamonga"
+        },
+        {
+            "firstName": "Candis",
+            "lastName": "Knutson",
+            "id": "5Y7mlIm",
+            "criteria": 2,
+            "city": "Bellefonte"
+        },
+        {
+            "firstName": "Kellyann",
+            "lastName": "Pollard",
+            "id": "DAZovQr",
+            "criteria": 3,
+            "city": "Eagle Pass"
+        },
+        {
+            "firstName": "George",
+            "lastName": "Douglas",
+            "id": "otGMrIg",
+            "criteria": 3,
+            "city": "Littleton"
+        },
+        {
+            "firstName": "Liang",
+            "lastName": "Levy",
+            "id": "fTMdjGm",
+            "criteria": 3,
+            "city": "Chambersburg"
+        }
+    ],
+    "cities": [{
+        "id": "5KjPr",
+        "city": "Fort Mill"
+    }, {
+        "id": "DOWgV",
+        "city": "Texas City"
+    }, {
+        "id": "MNCcF",
+        "city": "Tallapoosa"
+    }, {
+        "id": "9rZYf",
+        "city": "Modesto"
+    }, {
+        "id": "D7V4g",
+        "city": "Neenah"
+    }, {
+        "id": "y4Xba",
+        "city": "Sebring"
+    }, {
+        "id": "bNXR9",
+        "city": "Springfield"
+    }, {
+        "id": "SKrt9",
+        "city": "The Dalles"
+    }, {
+        "id": "OjDzu",
+        "city": "Saugus"
+    }, {
+        "id": "OAhAv",
+        "city": "Saint Pauls"
+    }, {
+        "id": "DM7eU",
+        "city": "Birmingham"
+    }, {
+        "id": "zBs7d",
+        "city": "Davisburg"
+    }, {
+        "id": "e4wQR",
+        "city": "North Bend"
+    }, {
+        "id": "qIWvk",
+        "city": "Peoria"
+    }, {
+        "id": "A7Voz",
+        "city": "Semarang"
+    }, {
+        "id": "bDnkF",
+        "city": "Eagle Pass"
+    }, {
+        "id": "hluIi",
+        "city": "Thornton"
+    }, {
+        "id": "AAAnt",
+        "city": "Tobyhanna"
+    }, {
+        "id": "giUmA",
+        "city": "Bremen"
+    }, {
+        "id": "Zq4Vy",
+        "city": "Chesterfield"
+    }, {
+        "id": "swDae",
+        "city": "Rancho Cucamonga"
+    }, {
+        "id": "f2c86",
+        "city": "Bellefonte"
+    }, {
+        "id": "TqsX6",
+        "city": "Eagle Pass"
+    }, {
+        "id": "GDVu6",
+        "city": "Littleton"
+    }, {
+        "id": "koRwD",
+        "city": "Chambersburg"
+    }],
+    "criteria": [{
+            "id": "vwAm4ZK",
+            "criteria": 1
+        },
+        {
+            "id": "VekZySK",
+            "criteria": 2
+        },
+        {
+            "id": "MqUmIAr",
+            "criteria": 3
+        }
+    ]
+
+}

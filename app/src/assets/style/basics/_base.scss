@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+textarea,
+input,
+select,
+button,
+a {
+  font-family: inherit;
+}
+
+
+
+body {
+  font-size: 16px;
+  font-family: $font-primary;
+
+
+}
+
+#app {
+  height: 100vh;
+  font-family: inherit;
+  .main-container {
+    height: 100%;
+    flex-grow: 1;
+    width: 100%;
+    // padding: 84px 0;
+    >:first-child{
+      height: 100%;
+    }
+  }
+
+}
+
+
+
+img {
+  width: 100%;
+}
+
+
+a {
+  text-decoration: none;
+  color: #333333;
+}
+.error-msg{
+  color: $color-red;
+  font-size: 30px;
+  padding: 20px;
+  border:1px solid $color-border;
+  cursor: pointer;
+}
